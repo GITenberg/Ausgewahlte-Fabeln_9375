@@ -1,0 +1,38 @@
+_repo: Ausgewahlte-Fabeln_9375
+creator:
+  author:
+    agent_name: Lessing, Gotthold Ephraim
+    alias: Lessing, G. E.
+    birthdate: 1729
+    deathdate: 1781
+    gutenberg_agent_id: '990'
+    url: http://www.gutenberg.org/2009/agents/990
+    wikipedia: http://en.wikipedia.org/wiki/Gotthold_Ephraim_Lessing
+description: ''
+gutenberg_bookshelf: DE Kinderbuch
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9375'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fables'
+tableOfContents: "Das Geschenk der Feien\r\nDas Roß und der Stier\r\nDer Affe und\
+  \ der Fuchs\r\nDer Besitzer des Bogens\r\nDer Esel mit dem Löwen\r\nDer Esel und\
+  \ das Jagdpferd\r\nDer Esel und der Wolf\r\nDer Fuchs\r\nDer Geizige\r\nDer Hamster\
+  \ und die Ameise\r\nDer Hirsch\r\nDer Hirsch und der Fuchs\r\nDer Knabe und die\
+  \ Schlange\r\nDer Löwe mit dem Esel\r\nDer Löwe und der Hase\r\nDer Pelikan\r\n\
+  Der Phönix\r\nDer Rabe\r\nDer Rabe und der Fuchs\r\nDer Rangstreit der Tiere\r\n\
+  Der Sperling und der Strauß\r\nDer Strauß\r\nDer Wolf auf dem Todbette\r\nDer Wolf\
+  \ und der Schäfer\r\nDer hungrige Fuchs\r\nDer junge und der alte Hirsch\r\nDie\
+  \ Eiche\r\nDie Eiche und das Schwein\r\nDie Erscheinung\r\nDie Eule und der Schatzgräber\r\
+  \nDie Furien\r\nDie Gans\r\nDie Geschichte des alten Wolfs\r\nDie Nachtigall und\
+  \ die Lerche\r\nDie Pfauen und die Krähe\r\nDie Schwalbe\r\nDie Sperlinge\r\nDie\
+  \ Traube\r\nDie Wasserschlange\r\nDie Ziegen\r\nDie eherne Bildsäule\r\nDie junge\
+  \ Schwalbe\r\nJupiter und das Schaf\r\nMerops\r\nMinerva\r\nZeus und das Pferd"
+title: Ausgewählte Fabeln
+url: http://www.gutenberg.org/ebooks/9375
